@@ -1,0 +1,3 @@
+/home/jagoda/Desktop/prog-project/COMP1921/sc20jmt/CW2/build/CMakeFiles/rebuild_cache.dir
+/home/jagoda/Desktop/prog-project/COMP1921/sc20jmt/CW2/build/CMakeFiles/edit_cache.dir
+/home/jagoda/Desktop/prog-project/COMP1921/sc20jmt/CW2/build/CMakeFiles/lifeGame.dir

@@ -1,0 +1,1 @@
+/bin/c99-gcc -std=c99 -fdump-rtl-expand -g -rdynamic CMakeFiles/lifeGame.dir/main.c.o CMakeFiles/lifeGame.dir/config.c.o CMakeFiles/lifeGame.dir/logic.c.o CMakeFiles/lifeGame.dir/graph.c.o -o lifeGame  -lSDL2 -lpthread -Wl,-Bstatic -lSDL2main -Wl,-Bdynamic -lSDL2_image 
